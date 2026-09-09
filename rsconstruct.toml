@@ -46,5 +46,5 @@ src_files = ["package.json"]
 # ─── javascript ──────────────────────────────────────────────────────────────
 
 [processor.eslint]
-src_files = ["hello.js"]
+src_files = ["hello.js", "hello.ts"]
 args = ["-c", ".eslint.config.js"]
