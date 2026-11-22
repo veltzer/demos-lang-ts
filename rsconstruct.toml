@@ -47,4 +47,5 @@ src_files = ["package.json"]
 
 [processor.checker.oxlint]
 src_files = ["hello.js", "hello.ts"]
-args = ["-c", ".oxlintrc.json"]
+args = ["-c", ".oxlintrc.repo.json"]
+dep_inputs = [".oxlintrc.repo.json"]
