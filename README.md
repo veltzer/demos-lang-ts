@@ -5,7 +5,7 @@
 
 description: Demos for the typescript programming language
 
-project website: https://veltzer.github.io/demos-lang-ts
+project website: <https://veltzer.github.io/demos-lang-ts>
 
 author: Mark Veltzer
 
